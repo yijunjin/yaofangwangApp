@@ -1,0 +1,7 @@
+#过滤文件夹
+*doc/
+node_modules/
+
+#过滤文件
+*.zip
+README.md
